@@ -1,7 +1,6 @@
 ### Repository Description
 
 > A Java-based Student Management System that allows managing student information and modules. It demonstrates basic Object-Oriented Programming (OOP) principles including encapsulation, inheritance, and class interaction. The system can display student details, handle modules, and is designed for educational use.
-
 ---
 
 ### `README.md` File
